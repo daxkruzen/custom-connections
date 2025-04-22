@@ -15,11 +15,11 @@ export default function Page() {
           href="/new"
           className="flex basis-1/2 flex-col items-center justify-center gap-2 rounded-md border border-stone-300 p-4 transition-colors hover:bg-stone-100"
         >
+        */}
           <IconPlus className="h-8 w-8 sm:h-12 sm:w-12" />
           <span className="font-semibold">Create New Game</span>
         </Link>
-        */}
-
+        
         <div className="flex basis-1/2 flex-col gap-4">
           {examples.map((example, i) => (
             <Link
