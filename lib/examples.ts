@@ -2,19 +2,19 @@ import { GameOptions } from "./game-options";
 
 export const examples: GameOptions[] = [
   {
-    title: "Connections #173",
-    author: "NYTimes",
+    title: "#1",
+    author: "Dax Kruzen Pettibone",
     names: [
-      "PLACES TO SHOP",
-      "WAYS TO REMOVE HAIR",
-      "PORTION OF PROFIT",
-      "KINDS OF WRENCHES",
+      "WORDS FOR HORSE",
+      "OPPOSE",
+      "PALINDROMES",
+      "KEY___",
     ],
     words: [
-      ["MALL", "MARKET", "OUTLET", "STORE"],
-      ["SHAVE", "THREAD", "TWEEZE", "WAX"],
-      ["CUT", "PIECE", "SHARE", "TAKE"],
-      ["ALLEN", "CRESCENT", "MONKEY", "SOCKET"],
+      ["MUSTANG", "MARE", "COLT", "BRONCO"],
+      ["BLOCK", "CHALLENGE", "RESIST", "COMBAT"],
+      ["CIVIC", "LEVEL", "ROTOR", "REFER"],
+      ["RING", "BOARD", "CHAIN", "NOTE"],
     ],
   },
   {
