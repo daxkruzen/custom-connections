@@ -6,30 +6,7 @@ export default function Page() {
   return (
     <main className="flex flex-col gap-4">
       <p>
-        This is a simple tool to allow you to create and share your own versions
-        of the New York Time&apos;s{" "}
-        <a
-          href="https://www.nytimes.com/games/connections"
-          className="underline"
-          target="_blank"
-        >
-          Connections
-        </a>{" "}
-        game. All game data is embedded in the URL, so none of your data is
-        stored on a server. After generating a new game, just copy the URL to
-        send it to your friends. The code for this website is{" "}
-        <a
-          href="https://github.com/zsrobinson/custom-connections"
-          className="underline"
-          target="_blank"
-        >
-          open source
-        </a>{" "}
-        and was created by{" "}
-        <a href="https://zsrobinson.com" className="underline" target="_blank">
-          Zachary Robinson
-        </a>
-        .
+       Connections!
       </p>
 
       <div className="flex flex-col gap-4 sm:flex-row">
