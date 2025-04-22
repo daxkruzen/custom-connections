@@ -9,6 +9,7 @@ export default function Page() {
        Connections!
       </p>
 
+      {/* 
       <div className="flex flex-col gap-4 sm:flex-row">
         <Link
           href="/new"
@@ -17,6 +18,7 @@ export default function Page() {
           <IconPlus className="h-8 w-8 sm:h-12 sm:w-12" />
           <span className="font-semibold">Create New Game</span>
         </Link>
+        */}
 
         <div className="flex basis-1/2 flex-col gap-4">
           {examples.map((example, i) => (
