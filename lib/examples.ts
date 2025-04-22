@@ -2,24 +2,24 @@ import { GameOptions } from "./game-options";
 
 export const examples: GameOptions[] = [
   {
-    title: "#3",
-    author: "Dax Kruzen Pettibone",
+    title: "Connections #3",
+    author: "Dax",
     names: [
-      "THINGS",
-      "OPPOSE",
-      "PALINDROMES",
-      "KEY___",
+      "COMMONLY RECYCLED MATERIALS",
+      "ONOMATOPOEIAS",
+      "SINGULAR ITEMS THAT SOUND PLURAL",
+      "THINGS THAT BECOME NEW THINGS WHEN YOU ADD "ET"",
     ],
     words: [
-      ["MUSTANG", "MARE", "COLT", "BRONCO"],
-      ["BLOCK", "CHALLENGE", "RESIST", "COMBAT"],
-      ["CIVIC", "LEVEL", "ROTOR", "REFER"],
-      ["RING", "BOARD", "CHAIN", "NOTE"],
+      ["PAPER", "METAL", "CARDBOARD", "PLASTIC"],
+      ["CRACK", "POP", "JINGLE", "RING"],
+      ["SCISSORS", "PANTS", "GLASSES", "BINOCULARS"],
+      ["ROCK", "BUCK", "TICK", "JACK"],
     ],
   },
   {
-    title: "#2",
-    author: "Dax Kruzen Pettibone",
+    title: "Connections #2",
+    author: "Dax",
     names: [
       "WORDS FOR HORSE",
       "OPPOSE",
@@ -34,8 +34,8 @@ export const examples: GameOptions[] = [
     ],
   },
   {
-    title: "#1",
-    author: "Dax Kruzen Pettibone",
+    title: "Connections #1",
+    author: "Dax",
     names: [
       "THINGS THAT MOVE SLOWLY",
       "TOILET CLEANING METHODS",
