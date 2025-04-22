@@ -6,9 +6,9 @@ export default function Page() {
   return (
     <main className="flex flex-col gap-4">
       <p>
-        Group 16 words into 4 sets of 4 related words.
-        Some words might fit more than one group — choose carefully!
-        Tap words to select them, then submit your guess.
+        Group 16 words into 4 sets of 4 related words. <br>
+        Some words might fit more than one group — choose carefully! <br>
+        Tap words to select them, then submit your guess. <br>
         Have fun and good luck!
       </p>
  
