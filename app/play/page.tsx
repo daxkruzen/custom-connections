@@ -88,7 +88,7 @@ export default function Page() {
           </span>{" "}
           by {gameOptions.author.toUpperCase()}
         </h2>
-
+    {/*
         <p className="text-stone-500">
           <Link
             href={`/new?options=${params.get("options")}`}
@@ -101,6 +101,7 @@ export default function Page() {
             create your own
           </Link>
         </p>
+    */}
       </div>
 
       <div className="flex flex-col gap-2 sm:gap-4">
