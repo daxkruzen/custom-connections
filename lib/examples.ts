@@ -8,7 +8,7 @@ export const examples: GameOptions[] = [
       "COMMONLY RECYCLED MATERIALS",
       "ONOMATOPOEIAS",
       "SINGULAR ITEMS THAT SOUND PLURAL",
-      "THINGS THAT BECOME NEW THINGS WHEN YOU ADD "ET"",
+      "THINGS THAT BECOME NEW THINGS WHEN YOU ADD -ET",
     ],
     words: [
       ["PAPER", "METAL", "CARDBOARD", "PLASTIC"],
