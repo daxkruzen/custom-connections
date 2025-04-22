@@ -6,7 +6,10 @@ export default function Page() {
   return (
     <main className="flex flex-col gap-4">
       <p>
-       Come and play connections!
+        Group 16 words into 4 sets of 4 related words.
+        Some words might fit more than one group — choose carefully!
+        Tap words to select them, then submit your guess.
+        Have fun and good luck!
       </p>
  
       <div className="flex flex-col gap-4 sm:flex-row">
