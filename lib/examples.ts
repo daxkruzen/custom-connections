@@ -2,8 +2,8 @@ import { GameOptions } from "./game-options";
 
 export const examples: GameOptions[] = [
   {
-    title: "Connections #3",
-    author: "Dax",
+    title: "No. 3",
+    author: "Dax Kruzen Pettibone",
     names: [
       "COMMONLY RECYCLED MATERIALS",
       "ONOMATOPOEIAS",
@@ -18,8 +18,8 @@ export const examples: GameOptions[] = [
     ],
   },
   {
-    title: "Connections #2",
-    author: "Dax",
+    title: "No. 2",
+    author: "Dax Kruzen Pettibone",
     names: [
       "WORDS FOR HORSE",
       "OPPOSE",
@@ -34,8 +34,8 @@ export const examples: GameOptions[] = [
     ],
   },
   {
-    title: "Connections #1",
-    author: "Dax",
+    title: "No. 1",
+    author: "Dax Kruzen Pettibone",
     names: [
       "THINGS THAT MOVE SLOWLY",
       "TOILET CLEANING METHODS",
